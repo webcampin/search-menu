@@ -1,2 +1,2 @@
-# search-menu
-A simple search menu with bootstrap components
+# Search Menu
+A simple search menu with bootstrap components.
